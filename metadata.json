@@ -1,0 +1,6 @@
+{
+  "name": "Premium Access Hub",
+  "description": "Secure premium access link generator and validator with hidden admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
